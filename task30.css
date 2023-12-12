@@ -1,0 +1,42 @@
+*{padding: 0%;
+margin: 0%;
+box-sizing: border-box;}
+
+/* FIRST BLUE BOX */
+
+.bluebox{background-color: blue;
+        color: white;
+        min-height: 280px;
+        width: 100%;
+        text-align: center;
+        margin: auto;}
+
+.bluebox h1{font-weight: bold;
+                font-size: 60px;
+                padding-top: 40px;}
+
+.bluebox p{font-weight: bold;
+                padding-top:20px;
+                padding-bottom: 20px;}
+
+.bluebox button{height: 50px;
+                width: 150px;
+                border-radius: 20px;
+                border:1px solid rgb(236, 205, 205);
+                font-weight: bold;
+                color: rgb(198, 220, 240);
+                background-color: transparent;
+                margin-right: 10px;}
+
+.bluebox button>i{height: 20px;
+                width: 10px;
+                font-weight: bold;
+                margin-right: 10px;}
+
+.whitebox {height: 600px;
+                width: 100%;
+                background-color: blueviolet;}
+
+        /* TABLE */
+
+table,th,td{padding: 20px 10px 0px 20px;}
